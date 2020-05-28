@@ -1,0 +1,5 @@
+file1 = open("input4.txt","r")
+num_lines = sum(1 for line in open('input4.txt'))
+n=int(input("Enter number of lines: "))
+print(file1.readlines()[num_lines-n:num_lines])
+file1.close()

@@ -1,0 +1,5 @@
+Name   :Ankit Kumar
+Reg no :RA1711003010086
+DOB    :07-10-1999
+Dept   :CSE
+College:SRMIST
